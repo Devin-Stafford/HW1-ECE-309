@@ -1,2 +1,5 @@
-# ece309-fall18-unityid
-Repository for students to fork and modify.
+# ece309-fall18-dmstaffo
+Devin Stafford
+ECE 309
+September 5, 2018
+
