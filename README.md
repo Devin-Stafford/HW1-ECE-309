@@ -8,3 +8,4 @@ September 5, 2018
   * Made private and added collaborators
   * Linked Travis CI
   * Made initial commit
+  * Edited make file and tested code with make file
